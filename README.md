@@ -13,3 +13,6 @@
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+# 프로젝트 진행
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://guiltless-trunk-fb2.notion.site/1st-Project-1a5bba27f57d8049bf18d3007432ef67)
